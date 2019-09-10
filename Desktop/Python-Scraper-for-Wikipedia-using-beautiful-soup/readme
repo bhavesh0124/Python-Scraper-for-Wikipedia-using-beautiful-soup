@@ -1,0 +1,10 @@
+This is a Jupyter notebook which contains the code of python scraper
+
+
+Requirements:
+bs4
+time
+Pandas
+
+
+You can change the read_csv() file name to your own directories
